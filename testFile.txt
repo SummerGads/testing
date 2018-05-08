@@ -1,0 +1,8 @@
+Some text.
+
+More random text.
+
+Random varible time:
+a=1
+b=2
+c=3
